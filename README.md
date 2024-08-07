@@ -1,2 +1,2 @@
-# Odin-Recipes
+# odin_recipes
 TheOdinProject Practice Example
